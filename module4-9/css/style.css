@@ -18,7 +18,7 @@ h2 {
 
 .flexible-container {
     display: flex;
-    margin-bottom: 30px;
+    margin-bottom: 100px;
 }
 
 .half-width {
@@ -87,4 +87,9 @@ h2 {
 
 #baby-stack-developer {
     border-left: 7px solid blueviolet;
+}
+
+footer {
+    padding-top: 100px;
+    text-align: center;
 }
