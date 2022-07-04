@@ -70,3 +70,7 @@ h1 {
     border-left: 5px solid tomato;
     box-shadow: 10px 10px 40px dimgray;
 }
+
+.experience-item-title {
+    font-size: 40px;
+}
