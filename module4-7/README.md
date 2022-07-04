@@ -1,1 +1,1 @@
-4-6 Dream area, Background image, background-repeat
+4-7 Experience area, refactor flexible container, meaningful class name
