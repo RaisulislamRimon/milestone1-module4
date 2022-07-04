@@ -52,3 +52,11 @@ section {
     background-repeat: no-repeat;
     background-position: right bottom;
 }
+
+.dream-big .half-width {
+    margin-right: -30px;
+}
+
+.dream-big .half-width img {
+    width: 100%;
+}
