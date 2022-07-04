@@ -62,5 +62,6 @@ h1 {
 }
 
 .experience-item {
+    width: 40%;
     box-shadow: 10px 10px 40px dimgray;
 }
