@@ -1,1 +1,1 @@
-4-7 Experience area, refactor flexible container, meaningful class name
+4-8 Box shadow, background image, experience title change
