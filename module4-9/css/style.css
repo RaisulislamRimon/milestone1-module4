@@ -80,3 +80,11 @@ h2 {
     /* border-left: 5px solid tomato; */
     box-shadow: 10px 10px 40px dimgray;
 }
+
+#full-stack-developer {
+    border-left: 7px solid tomato;
+}
+
+#baby-stack-developer {
+    border-left: 7px solid blueviolet;
+}
